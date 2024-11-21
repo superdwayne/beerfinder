@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>uxpatterns.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>70307BFB77895F2F7DC54BD8B8CD1749F55F66DA</string>
+				<key>dateExpires</key>
+				<string>18/10/2025</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>936939DZC3.CTC.uxpatterns</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>936939DZC3</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>uxpatterns.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>ea77a941-24a2-4462-9072-6ae204e86e23</string>
+				<key>dateExpires</key>
+				<string>18/10/2025</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: CTC.uxpatterns</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>936939DZC3</string>
+				<key>name</key>
+				<string>Dwayne Paisley-marshall</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
